@@ -8,16 +8,18 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi, I am <span className="purple">Pattem Bhanu Prakash </span>
-            from <span className="purple"> Andhra Pradesh, India.</span>
+            Hi, I am <span className="purple">Pattem Bhanu Prakash</span> from <span className="purple">Andhra Pradesh, India</span>.
             <br />
-            I am currently pursuing a degree in Computer Science and Engineering at <span className="purple">JNTUA College of Engineering in Ananthapur</span>.
+            I am a Summer Research Intern (SRIP 2025) at <span className="purple">IIT Gandhinagar</span>, where I worked on developing interactive web applications and puzzle-solving algorithms.
             <br />
-            I completed my Intermediate education (MPC) with a <span className="purple">score of 95%</span> at Sri Chaitanya Junior College in Tirupati.
+            I am currently pursuing a degree in Computer Science and Engineering at <span className="purple">JNTUA College of Engineering, Ananthapur</span>.
+            <br />
+            I completed my Intermediate education (MPC) with a <span className="purple">score of 95%</span> at Sri Chaitanya Junior College, Tirupati.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
+
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games

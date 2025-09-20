@@ -29,27 +29,18 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple">Agentic Ai, Web Technologies and Products </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Express.js</b>
-              </i>
+              Whenever possible, I channel my passion into developing products using
+              <b className="purple"> Node.js, modern JavaScript frameworks
+              </b> and libraries such as <b className="purple">React.js, Redux, Express.js, and Material UI</b>, and exploring AI-driven tools like <i><b className="purple">LangGraph and CrewAI.</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={"https://res.cloudinary.com/dmvxvzb5n/image/upload/v1736254244/pj6mkantontqywqzyaf1.png"} className="img-fluid" alt="avatar" />
+              <img src={"https://res.cloudinary.com/dmvxvzb5n/image/upload/v1758362987/pj6mkantontqywqzyaf1_b9c79a.png"} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
