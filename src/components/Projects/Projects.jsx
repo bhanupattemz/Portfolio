@@ -50,8 +50,8 @@ Designed and implemented a responsive, user-friendly interface using React and J
               isBlog={false}
               title="College Clubs"
               description="A responsive platform was developed to manage student clubs, events, donations, and announcements, featuring role-based dashboards for admins and coordinators to handle events, members, and club resources. It includes functionalities like event registrations, club polls, a donation system, a library, a gallery, YouTube integration, and a centralized announcement system, with student login enabled via college email ID. The platform was built using HTML, CSS, JavaScript, React, Redux, Material UI, Node.js, Express.js, MongoDB, Cloudinary, Passport.js, Razorpay, and Postman."
-              ghLink="https://github.com/ccl-iitgn/puzzle_place"
-              demoLink="https://puzzle-place.vercel.app/"
+              ghLink="https://github.com/bhanupattemz/CollegeClubs"
+              demoLink="https://collegeclubs.onrender.com"
             />
           </Col>
 
